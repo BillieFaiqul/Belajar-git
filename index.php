@@ -12,6 +12,7 @@
 				<div class="row">
 					<div class="col">
 						<h1>Selamat datang di web saya</h1>
+                        <h1>hai</h1>
 						<div class="lead">Saya sedang belajar Bootstrap</div>
 					</div>
 				</div>
